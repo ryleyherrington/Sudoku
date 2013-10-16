@@ -1,4 +1,5 @@
-sudoku_496
+Sudoku for App Club	
 ==========
 
-Final project for 496
+Android and iOS apps to come by other people. 
+
