@@ -1,4 +1,4 @@
-Sudoku
-======
+sudoku_496
+==========
 
-GAE instance with (hopefully) android and iOS apps to make it work.
+Final project for 496
